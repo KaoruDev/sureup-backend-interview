@@ -40,8 +40,8 @@ Which returns all the models made by `Toyota` in `2012`.
 ```
 [
   'Celica',
-    'Camry',
-    '...'
+  'Camry',
+  '...'
 ]
 ```
 
